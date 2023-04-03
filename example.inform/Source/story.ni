@@ -8,4 +8,4 @@ The Kitchen is a room. The Kitchen has the description "This is where we cook." 
 
 The Bathroom is a room. The Bathroom has the description "This is where we clean." A sink is here. "A white sink." 
 
-The Bedroom is a room. The Bedroom has the description "You need to sleep." A bed is here. "An unmade bed." On the bed is a blanket. The blanket has the description "You cannot sleep yet."
+The Bedroom is a room. The Bedroom has the description "You need to sleep." A bed is here. The bed has the description "Still haven't made the bed." On the bed is a blanket. The blanket has the description "You cannot sleep yet."
